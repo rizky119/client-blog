@@ -1,0 +1,45 @@
+body {
+    background: url("images/blade-blur-dew-212324 main.jpg") no-repeat center center fixed; 
+    background-size: cover;
+}
+header {
+    display: inline-block;  
+    width: 80%;
+    padding: 30px;
+    border: 10px solid #abebc6;
+    margin: 100px auto;
+    font-family: "Josefin Slab", serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;    
+}
+article {
+        background: #ffffff;
+        width: 80%;
+        padding: 30px;
+        border: 2px solid #abebc6;
+        margin: 100px auto;
+}
+
+#landing-container {
+        border: 10px solid #196f3d;
+        width: 80%    
+}
+article header {
+        width: 80%;
+        padding: 30px;
+        margin: 0 auto;
+        font-family: "Josefin Sans", serif;
+        color:  #196f3d;
+        font-size: 20px;
+        text-align: center;
+}
+a {
+        display: inline-block;
+        padding: 20px;
+        border: 2px solid #196f3d;
+        margin: 5px auto;
+        text-decoration: none;
+        color: #ffffff;
+        
+}
