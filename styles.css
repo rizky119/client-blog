@@ -2,11 +2,12 @@ body {
     background: url("images/blade-blur-dew-212324 main.jpg") no-repeat center center fixed; 
     background-size: cover;
 }
-header {
-    display: inline-block;  
+main {
+    text-align: justify;
+}
+header {  
     width: 80%;
     padding: 30px;
-    border: 10px solid #abebc6;
     margin: 100px auto;
     font-family: "Josefin Slab", serif;
     text-align: center;
@@ -20,10 +21,8 @@ article {
         border: 2px solid #abebc6;
         margin: 100px auto;
 }
-
 #landing-container {
-        border: 10px solid #196f3d;
-        width: 80%    
+        border: 10px solid #196f3d;  
 }
 article header {
         width: 80%;
@@ -34,6 +33,10 @@ article header {
         font-size: 20px;
         text-align: center;
 }
+figure {
+        text-align: center;
+        margin: 30px auto;
+    }
 a {
         display: inline-block;
         padding: 20px;
@@ -41,5 +44,4 @@ a {
         margin: 5px auto;
         text-decoration: none;
         color: #ffffff;
-        
 }
